@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+
+
+#box1{
+    height: 250px;
+    width: 250px;
+    background-color: red;
+}
+#box2{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(100, 72, 72);
+}
+#box3{
+    height: 250px;
+    width: 250px;
+    background-color: aqua;
+}
