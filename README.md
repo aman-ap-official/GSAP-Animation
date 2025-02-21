@@ -13,3 +13,7 @@ https://github.com/user-attachments/assets/373a76a9-f658-4c76-94d7-7bad73578a10
 # Time Line Animation
 
 https://github.com/user-attachments/assets/1dde3221-8208-4057-aa3f-826e27d5c094
+
+# Time Line Animation Example
+
+https://github.com/user-attachments/assets/47aacb59-32e9-4f09-96a6-8752991edd24
